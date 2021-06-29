@@ -1,7 +1,0 @@
-# Skip folowing while git upload
-
-# Files
-.env
-
-# Dir
-node_modules/
