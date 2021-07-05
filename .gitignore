@@ -1,0 +1,8 @@
+# Dir
+node_modules/
+extras/
+logs/
+test/
+
+# Files
+.env
